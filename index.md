@@ -6,7 +6,7 @@
 
 ## AIsecTest — Security Self-Perception
 
-- (No reports yet)
+- [2026-04-29 — Nemotron3nanoOmni — 98'5/100 — Low risk](reports/2026-04-29_nemotron-3-nano-omni_aisectest.md)
 
 ---
 
