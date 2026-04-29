@@ -12,7 +12,7 @@
 
 ## CRS — Critical Reasoning Stability
 
-- [2026-04-29 — Qwen3.6-35B-A3B — 99/100 — Low risk](reports/2026-04-29_qwen36-35B-A3B_crs.md )
+- [2026-04-29 — Qwen3.6-35B-A3B — 99/100 — Low risk](reports/2026-04-29_qwen36-35B-A3B_crs.md)
 
 ---
 
