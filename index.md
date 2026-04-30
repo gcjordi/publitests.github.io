@@ -6,6 +6,7 @@
 
 ## AIsecTest — Security Self-Perception
 
+- [2026-04-30 — MiniMaxM2.5free — 69/100 — Medium risk](reports/2026-04-30_minimax-m25-free_aisectest.md)
 - [2026-04-29 — Nemotron3nanoOmni — 98'5/100 — Low risk](reports/2026-04-29_nemotron-3-nano-omni_aisectest.md)
 
 ---
